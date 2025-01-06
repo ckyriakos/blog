@@ -1,0 +1,2 @@
+- Welcome to my personal blog. This is where I'll post any things related to my interests and hobbies.
+- This will serve as way to pressure myself to be consistent and take notes
