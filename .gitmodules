@@ -1,8 +1,0 @@
-[submodule "themes/blowfish"]
-	path = themes/blowfish
-	url = git@github.com:nunocoracao/blowfish.git
-	branch = main
-[submodule "public"]
-	path = public
-	url = git@github.com:ckyriakos/ckyriakos.github.io.git
-	branch = main
